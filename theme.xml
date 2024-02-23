@@ -105,7 +105,6 @@
          <color>B3B3B3</color>
          <fontPath>${boldFont}</fontPath>
          <lineSpacing>1</lineSpacing>
-         <letterCase>capitalize</letterCase>
          <horizontalAlignment>center</horizontalAlignment>
       </text> 
       <text name="md_players">
