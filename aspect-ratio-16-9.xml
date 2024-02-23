@@ -81,7 +81,6 @@
             <pos>0.661458333333333 0.778333333333333</pos><!-- 1270 934 -->
             <size>0.5 0.12</size>
             <fontSize>0.024</fontSize>
-            <horizontalAlignment>left</horizontalAlignment>
          </text>
          <text name="md_genre">
             <pos>0.477604166666667 0.696666666666667</pos><!-- 917 832 -->
@@ -204,7 +203,6 @@
             <pos>0.5 0.74</pos>
             <size>0.5 0.12</size>
             <fontSize>0.024</fontSize>
-            <horizontalAlignment>left</horizontalAlignment>
          </text>
          <video name="md_video">
             <origin>0.5 0.5</origin>
@@ -269,7 +267,6 @@
             <pos>0.5 0.34</pos>
             <size>0.5 0.12</size>
             <fontSize>0.024</fontSize>
-            <horizontalAlignment>left</horizontalAlignment>
          </text>
          <grid name="gamelist-grid">
             <origin>0.5 0.5</origin>

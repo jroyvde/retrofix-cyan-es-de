@@ -136,7 +136,7 @@
          <origin>0.5 0</origin>
          <color>ffffff</color>
          <fontPath>${mainFont}</fontPath>
-         <horizontalAlignment>center</horizontalAlignment>
+         <horizontalAlignment>left</horizontalAlignment>
       </text>
       <video name="md_video">
          <delay>2</delay>
