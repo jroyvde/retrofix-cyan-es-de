@@ -9,9 +9,9 @@
       <label>transitions</label>
       <selectable>false</selectable>
       <systemToSystem>instant</systemToSystem>
-      <systemToGamelist>instant</systemToGamelist>
+      <systemToGamelist>slide</systemToGamelist>
       <gamelistToGamelist>instant</gamelistToGamelist>
-      <gamelistToSystem>instant</gamelistToSystem>
+      <gamelistToSystem>slide</gamelistToSystem>
       <startupToSystem>instant</startupToSystem>
       <startupToGamelist>instant</startupToGamelist>
    </transitions>
